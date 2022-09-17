@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on improve my dev portfolio
 - 🌱 I’m currently learning basic logics, HTML, CSS, JavaScript and watching Harvard's CS50
+- :heart: My personal interests are :dog: :movie_camera: :dress: :beers: :chocolate_bar: 
 - 📫 How to reach me: elisapazzini@gmail.com
 
 <div>
