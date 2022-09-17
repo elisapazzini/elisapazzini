@@ -1,7 +1,7 @@
 ### Olá, mundo! Aqui é a Elisa Pazzini! 👋
 
 - 🔭 I’m currently working on improve my dev portfolio
-- 🌱 I’m currently learning basic logics, HTML, CSS, JavaScript and watching Harvard's CC50
+- 🌱 I’m currently learning basic logics, HTML, CSS, JavaScript and watching Harvard's CS50
 - 📫 How to reach me: elisapazzini@gmail.com
 
 <div>
