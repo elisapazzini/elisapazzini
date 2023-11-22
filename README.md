@@ -1,7 +1,7 @@
 ### Olá, mundo! Aqui é a Elisa Pazzini! 👋
 
-- 🔭 I’m currently working on improve my dev portfoli
-- 🌱 I’m currently learning basic logics, HTML, CSS, JavaScript e  estudando Ciencia da Computacao
+- 🔭 I’m currently working on improve my dev portfolio
+- 🌱 I’m currently learning basic logics, HTML, CSS, JavaScript and studying Computer Science at college
 - :heart: My personal interests are :dog: :movie_camera: :dress: :beers: :chocolate_bar: 
 - 📫 How to reach me: elisapazzini@gmail.com
 
